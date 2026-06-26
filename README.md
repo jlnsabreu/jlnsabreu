@@ -44,7 +44,7 @@ building tools in Python, and slowly learning how systems talk to each other.
 | name | what it is | built with |
 |------|-----------|------------|
 | [mtg-collection-dashboard](https://github.com/jlnsabreu/mtg-collection-dashboard) | end-to-end pipeline: ManaBox exports → Scryfall API enrichment → Tableau dashboard. tracks mana curves, color distribution, legality, and collection composition. | Python, pandas, Scryfall API, Tableau |
-| [sql-practice]() | structured notes + real queries on real datasets | SQL | --in progress
+| [sql-practice](https://github.com/jlnsabreu/sql-practice) | structured notes + real queries on real datasets | PostgreSQL |
 
 ---
 
