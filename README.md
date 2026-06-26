@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ---
 
-### juliana abreu &nbsp;·&nbsp; `jlnsabreu`
+<div align="center">
+
+![header](assets/header.png)
 
 **collections analyst → data analyst (in progress)**
 
@@ -29,13 +31,7 @@ building tools in Python, and slowly learning how systems talk to each other.
 
 ### stack
 
-![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=c8d6c0)
-![SQL](https://img.shields.io/badge/SQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=c8d6c0)
-![Pandas](https://img.shields.io/badge/pandas-2b2b2b?style=flat-square&logo=pandas&logoColor=c8d6c0)
-![Jupyter](https://img.shields.io/badge/Jupyter-2b2b2b?style=flat-square&logo=jupyter&logoColor=c8d6c0)
-![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=c8d6c0)
-![Tableau](https://img.shields.io/badge/Tableau-2b2b2b?style=flat-square&logo=tableau&logoColor=c8d6c0)
-![VS Code](https://img.shields.io/badge/VS_Code-2b2b2b?style=flat-square&logo=visualstudiocode&logoColor=c8d6c0)
+![stack](assets/stack.png)
 
 ---
 
@@ -46,9 +42,15 @@ building tools in Python, and slowly learning how systems talk to each other.
 | [mtg-collection-dashboard](https://github.com/jlnsabreu/mtg-collection-dashboard) | end-to-end pipeline: ManaBox exports → Scryfall API enrichment → Tableau dashboard. tracks mana curves, color distribution, legality, and collection composition. | Python, pandas, Scryfall API, Tableau |
 | [sql-practice](https://github.com/jlnsabreu/sql-practice) | structured notes + real queries on real datasets | PostgreSQL |
 
+</div>
+
 ---
 
+<div align="center">
+
 ### currently
+
+</div>
 
 ```
 building    →  mtg-collection-dashboard (pipeline → analysis → viz)
@@ -58,6 +60,7 @@ listening   →  the shins, kinda nostalgic these days
 ```
 
 ---
+<div align="center">
 
 ### github activity
 
@@ -80,3 +83,5 @@ listening   →  the shins, kinda nostalgic these days
 ### find me
 
 [linkedin](https://linkedin.com/in/jsabreu) &nbsp;·&nbsp; open to data roles, collaborations, and recommendations for good datasets
+
+</div>
